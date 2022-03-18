@@ -6,3 +6,5 @@
 2. startapp
    1. python manage.py startapp playground
    2. setting.py > INSTALLED_APPS 'playground', 추가
+3. playground/views
+   1. say_hello()
