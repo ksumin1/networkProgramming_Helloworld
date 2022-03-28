@@ -14,3 +14,4 @@
    1. playground / -> hello/ -> say_hello()
 6. templates/playground/hello.html
    1. playground / -> hello/ -> say_hello() -> html
+7. 프로젝트/urls.py -> 앱/urls.py -> 앱/templates/앱/index.html

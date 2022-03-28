@@ -20,5 +20,6 @@ import playground.views
 
 urlpatterns = [
     path('playground/', include('playground.urls')),
+    path('stac/', include('stac.urls')),
     path('admin/', admin.site.urls),
 ]
